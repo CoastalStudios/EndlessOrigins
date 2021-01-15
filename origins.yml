@@ -1,0 +1,55 @@
+gladiator:
+  name: Gladiator
+  gui:
+    type: SKULL_ITEM
+    data: 0
+    displayname: '&d&l%name%'
+    lore:
+    - '&7%name% Origin Description'
+    slot: 2
+  perks:
+  - gladiator
+warrior:
+  name: Warrior
+  gui:
+    type: DIAMOND_SWORD
+    data: 0
+    displayname: '&6&l%name%'
+    lore:
+    - '&7%name% Origin Description'
+    slot: 3
+  perks:
+  - warrior
+farmer:
+  name: Farmer
+  gui:
+    type: CARROT_ITEM
+    data: 0
+    displayname: '&b&l%name%'
+    lore:
+    - '&7%name% Origin Description'
+    slot: 4
+  perks:
+  - farmer
+scavenger:
+  name: Scavenger
+  gui:
+    type: STONE_PICKAXE
+    data: 0
+    displayname: '&9&l%name%'
+    slot: 5
+    lore:
+    - '&7%name% Origin Description'
+  perks:
+  - scavenger
+enchanter:
+  name: Enchanter
+  gui:
+    type: EXP_BOTTLE
+    data: 0
+    displayname: '&c&l%name%'
+    lore:
+    - '&7%name% Origin Description'
+    slot: 6
+  perks:
+  - enchanter

@@ -1,0 +1,25 @@
+gladiator:
+  outgoing-pve-damage:
+    increased: 15%
+  double-damage: 20%
+warrior:
+  outgoing-pvp-damage:
+    increased: 5%
+  incoming-pvp-damage:
+    decreased: 5%
+  double-damage: 20%
+farmer:
+  crop-growth-rate:
+    increased: 20%
+  crop-drop-chance: 10%
+  increased-durability: 50%
+scavenger:
+  exp-boost:
+    increased: 5%
+  double-drop-chance: 10%
+  auto-smelt: 50%
+enchanter:
+  enchanter-discount: 5%
+  exp-boost:
+    increased: 15%
+  enchant-procc-chance: 10%

@@ -1,0 +1,7 @@
+name: EndlessOrigins
+version: 1.0
+author: mathiaseklund
+main: me.endlesspvp.origins.Main
+commands:
+  origin:
+    aliases: [ori,origins]

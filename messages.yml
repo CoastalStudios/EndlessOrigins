@@ -1,0 +1,3 @@
+selected:
+  self: '&aYou have selected the %origin% Origin!'
+  broadcast: '&a%player% has selected the %origin% Origin!'

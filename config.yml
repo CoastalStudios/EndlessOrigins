@@ -1,0 +1,7 @@
+debug: true
+gui:
+  size: 9
+  title: '&cEndless Origins'
+  filler:
+    type: STAINED_GLASS_PANE
+    data: 7
